@@ -1,4 +1,5 @@
 
+![accurate id-Sales-adalah-Isitilah-Pekerjaan-dan-Fungsi-sales-dalam-Perusahaan](https://github.com/user-attachments/assets/95adc42f-7974-40a2-bcfe-c91641c04fce)
 
 In this project we're going to perform Sales Data Analysis on amazon product sales dataset
 
